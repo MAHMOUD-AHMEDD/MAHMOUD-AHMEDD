@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,14,20,24&amp;height=200&amp;section=header&amp;text=Mahmoud%20Ahmed&amp;fontSize=50&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Backend%20Developer%20%C2%B7%20.NET%20%26%20AWS%20%C2%B7%20Clean%20Architecture&amp;descAlignY=58&amp;descSize=17" width="100%"/>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=200&section=header&text=Mahmoud%20Ahmed&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20.NET%20%7C%20AWS%20%7C%20Clean%20Architecture&descAlignY=58&descSize=17)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;pause=1000&amp;color=6E57F7&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+from+code+to+cloud+%E2%98%81%EF%B8%8F;.NET+%7C+ASP.NET+Core+%7C+Clean+Architecture;AWS+%7C+Docker+%7C+ECS+Fargate;Open+to+Junior+Backend+Roles+%F0%9F%9A%80" alt="Typing SVG" />
 

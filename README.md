@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=200&section=header&text=Mahmoud%20Ahmed&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20·%20.NET%20%26%20AWS%20·%20Clean%20Architecture&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,14,20,24&amp;height=200&amp;section=header&amp;text=Mahmoud%20Ahmed&amp;fontSize=50&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Backend%20Developer%20%C2%B7%20.NET%20%26%20AWS%20%C2%B7%20Clean%20Architecture&amp;descAlignY=58&amp;descSize=17" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E57F7&center=true&vCenter=true&width=600&lines=Building+from+code+to+cloud+☁️;.NET+%7C+ASP.NET+Core+%7C+Clean+Architecture;AWS+%7C+Docker+%7C+ECS+Fargate;Open+to+Junior+Backend+Roles+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;pause=1000&amp;color=6E57F7&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Building+from+code+to+cloud+%E2%98%81%EF%B8%8F;.NET+%7C+ASP.NET+Core+%7C+Clean+Architecture;AWS+%7C+Docker+%7C+ECS+Fargate;Open+to+Junior+Backend+Roles+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -22,13 +20,13 @@
 ```csharp
 var mahmoud = new Developer
 {
-    Name       = "Mahmoud Ahmed",
-    Location   = "Giza, Egypt 🇪🇬",
-    Education  = "CS & AI @ Fayoum University (2022–2026)",
-    Focus      = new[] { ".NET Backend", "Clean Architecture", "AWS Cloud" },
-    CurrentlyBuilding = "TaskFlow — a production-grade Project Management API",
-    LookingFor = "Junior Backend Role or Internship",
-    Languages  = new[] { "Arabic (Native)", "English (Advanced)" }
+    Name              = "Mahmoud Ahmed",
+    Location          = "Giza, Egypt 🇪🇬",
+    Education         = "CS & AI @ Fayoum University (2022–2026)",
+    Focus             = new[] { ".NET Backend", "Clean Architecture", "AWS Cloud" },
+    CurrentlyBuilding = "TaskFlow — production-grade Project Management API",
+    LookingFor        = "Junior Backend Role or Internship",
+    Languages         = new[] { "Arabic (Native)", "English (Advanced)" }
 };
 ```
 
@@ -42,18 +40,21 @@ That curiosity led me deeper: *where does this actually run?* So I dove into **A
 
 <table>
   <tr>
-    <td>
+    <td valign="top" width="50%">
       <b>🗂️ TaskFlow</b> — Project Management REST API<br/>
-      <sub>4-layer Clean Architecture · 4-role RBAC · Arabic/English · AWS ECS Fargate + RDS</sub><br/><br/>
+      <sub>4-layer Clean Architecture · 4-role RBAC · Arabic/English · AWS ECS Fargate · RDS</sub>
+      <br/><br/>
       <a href="https://github.com/MAHMOUD-AHMEDD/TaskManagement">
-        <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github"/>
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&amp;logo=github"/>
       </a>
+      &nbsp;
       <img src="https://img.shields.io/badge/Status-In_Progress-orange?style=flat-square"/>
     </td>
-    <td>
+    <td valign="top" width="50%">
       <b>☁️ AWS CLF-C02</b> — Cloud Practitioner Cert<br/>
-      <sub>Building on 120hrs NTI training · 98% score · Targeting certification</sub><br/><br/>
-      <img src="https://img.shields.io/badge/AWS-Studying-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+      <sub>Building on 120hrs NTI training · 98% score · Targeting certification</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/AWS-Studying-232F3E?style=flat-square&amp;logo=amazonaws&amp;logoColor=white"/>
     </td>
   </tr>
 </table>
@@ -73,7 +74,7 @@ That curiosity led me deeper: *where does this actually run?* So I dove into **A
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-**Data & ORM**
+**Data**
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -86,9 +87,9 @@ That curiosity led me deeper: *where does this actually run?* So I dove into **A
 ![ECS Fargate](https://img.shields.io/badge/ECS_Fargate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Patterns & Tooling**
+**Patterns**
 
-`Clean Architecture` &nbsp;·&nbsp; `Generic Repository` &nbsp;·&nbsp; `Unit of Work` &nbsp;·&nbsp; `REST API` &nbsp;·&nbsp; `JWT` &nbsp;·&nbsp; `RBAC` &nbsp;·&nbsp; `FluentValidation` &nbsp;·&nbsp; `AutoMapper` &nbsp;·&nbsp; `Serilog` &nbsp;·&nbsp; `Swagger`
+`Clean Architecture` · `Generic Repository` · `Unit of Work` · `REST API` · `JWT` · `RBAC` · `FluentValidation` · `AutoMapper` · `Serilog`
 
 </div>
 
@@ -98,22 +99,24 @@ That curiosity led me deeper: *where does this actually run?* So I dove into **A
 
 <div align="center">
 
-| 🎖️ | Achievement |
-|---|---|
-| ☁️ | **98% score** — AWS Cloud Services Management & Operation · NTI · 120hrs |
+| | Achievement |
+|:---:|---|
+| ☁️ | **98% score** — AWS Cloud Services Management & Operation · NTI · 120 hrs |
 | 🏛️ | **Backend Dev Trainee** — Digital Egypt Pioneers Initiative (DEPI) · Jul–Oct 2024 |
 | 🧠 | **ECPC / ACPC** — Egypt & Arab Collegiate Programming Contests · C++ |
 | 🤝 | **ECPC Community Volunteer** — competitive programming outreach · 1 year |
 
 </div>
 
+
+
 <br/>
 
 <div align="center">
 
-*Open to junior backend roles and internships — local, MENA, or remote.*
+*Open to junior backend roles and internships — local, MENA, or remote.*<br/>
 **Let's build something solid.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12,14,20,24&amp;height=100&amp;section=footer" width="100%"/>
 
 </div>
